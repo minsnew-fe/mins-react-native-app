@@ -1,0 +1,1 @@
+# mins-react-native-app
